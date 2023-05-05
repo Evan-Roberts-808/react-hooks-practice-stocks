@@ -70,5 +70,28 @@
       "type": "Sportswear",
       "price": 21.07
     }
+  ],
+  "myStocks": [
+    {
+      "name": "Facebook",
+      "ticker": "FB",
+      "type": "Tech",
+      "price": 168.85,
+      "id": 2
+    },
+    {
+      "name": "Google",
+      "ticker": "GOOG",
+      "type": "Tech",
+      "price": 1194.8,
+      "id": 3
+    },
+    {
+      "name": "Twitter",
+      "ticker": "TWTR",
+      "type": "Tech",
+      "price": 29.41,
+      "id": 4
+    }
   ]
 }
